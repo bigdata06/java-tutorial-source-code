@@ -28,7 +28,7 @@ public class Application {
         System.out.println("Customers found with findAll():");
         System.out.println("-------------------------------");
         for (Customer customer : customers) {
-            System.out.println("Liste of customers : "+customer);
+            System.out.println("List of customers >>> : "+customer);
         }
         System.out.println();
 
